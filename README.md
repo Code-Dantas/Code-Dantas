@@ -16,7 +16,7 @@ console.log('Hello World');
 
 <ul>
   <li>💻 Futuro Dev</li>
-  <li>🎓 Estudando Análise e desenvolvimentos de sistema na Cruzeiro do Sul</li>
+  <li>🎓 Estudante de Análise e desenvolvimentos de sistema</li>
   <li>👨‍💻 HTML, CSS, JavaScript e Python </li>
 </ul>
 
