@@ -16,7 +16,7 @@ console.log('Hello World');
 
 <ul>
   <li>💻 Futuro Dev</li>
-  <li>🎓 Estudante de Análise e desenvolvimentos de sistema</li>
+  <li>🎓 Estudante de Sistemas para Internet</li>
   <li>👨‍💻 HTML, CSS, JavaScript e Python </li>
 </ul>
 
